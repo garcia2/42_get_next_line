@@ -64,4 +64,4 @@ int main(void) {
 
 ## Author
 
-Project developed by ([Nicolas Garcia ](https://github.com/garcia2)) as part of 42 school.
+Project developed by [Nicolas Garcia ](https://github.com/garcia2) as part of 42 school.
